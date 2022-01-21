@@ -1,0 +1,30 @@
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.deps.json
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.runtimeconfig.json
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.runtimeconfig.dev.json
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.dll
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Entity\bin\Debug\net5.0\ref\Northwind.Entity.dll
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.pdb
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.AssemblyInfoInputs.cache
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.AssemblyInfo.cs
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.csproj.CoreCompileInputs.cache
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.dll
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Entity\obj\Debug\net5.0\ref\Northwind.Entity.dll
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.pdb
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.genruntimeconfig.cache
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.csprojAssemblyReference.cache
+E:\Belgeler\BupaAciBadem\Northwind15.01.2022_2\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.deps.json
+E:\Belgeler\BupaAciBadem\Northwind15.01.2022_2\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.runtimeconfig.json
+E:\Belgeler\BupaAciBadem\Northwind15.01.2022_2\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.runtimeconfig.dev.json
+E:\Belgeler\BupaAciBadem\Northwind15.01.2022_2\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.dll
+E:\Belgeler\BupaAciBadem\Northwind15.01.2022_2\Northwind\Northwind.Entity\bin\Debug\net5.0\ref\Northwind.Entity.dll
+E:\Belgeler\BupaAciBadem\Northwind15.01.2022_2\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.pdb
+E:\Belgeler\BupaAciBadem\Northwind15.01.2022_2\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.csproj.AssemblyReference.cache
+E:\Belgeler\BupaAciBadem\Northwind15.01.2022_2\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Belgeler\BupaAciBadem\Northwind15.01.2022_2\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.AssemblyInfoInputs.cache
+E:\Belgeler\BupaAciBadem\Northwind15.01.2022_2\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.AssemblyInfo.cs
+E:\Belgeler\BupaAciBadem\Northwind15.01.2022_2\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.csproj.CoreCompileInputs.cache
+E:\Belgeler\BupaAciBadem\Northwind15.01.2022_2\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.dll
+E:\Belgeler\BupaAciBadem\Northwind15.01.2022_2\Northwind\Northwind.Entity\obj\Debug\net5.0\ref\Northwind.Entity.dll
+E:\Belgeler\BupaAciBadem\Northwind15.01.2022_2\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.pdb
+E:\Belgeler\BupaAciBadem\Northwind15.01.2022_2\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.genruntimeconfig.cache
